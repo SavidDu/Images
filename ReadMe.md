@@ -1,3 +1,2 @@
-## Repo of all images used in portfolios and porjects.
+## Repo of all images used in portfolios and projects.
 
-Dunno why I'm making this since it's all private.
